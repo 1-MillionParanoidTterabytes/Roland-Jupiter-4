@@ -1,0 +1,100 @@
+// this file was generated from jp4 - Submissive.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=10 hikey=36 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=553 end=130940 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-48-127.aif
+<group>lokey=37 hikey=37 pitch_keycenter=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=529 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-49-127.aif
+<group>lokey=38 hikey=38 pitch_keycenter=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=686 end=132158 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-50-127.aif
+<group>lokey=39 hikey=39 pitch_keycenter=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=473 end=131514 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-51-127.aif
+<group>lokey=40 hikey=40 pitch_keycenter=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=529 end=131946 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-52-127.aif
+<group>lokey=41 hikey=41 pitch_keycenter=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=619 end=131796 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-53-127.aif
+<group>lokey=42 hikey=42 pitch_keycenter=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=677 end=132744 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-54-127.aif
+<group>lokey=43 hikey=43 pitch_keycenter=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=587 end=131855 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-55-127.aif
+<group>lokey=44 hikey=44 pitch_keycenter=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=593 end=131501 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-56-127.aif
+<group>lokey=45 hikey=45 pitch_keycenter=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=303 end=131761 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-57-127.aif
+<group>lokey=46 hikey=46 pitch_keycenter=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=707 end=132104 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-58-127.aif
+<group>lokey=47 hikey=47 pitch_keycenter=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=365 end=131544 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-59-127.aif
+<group>lokey=48 hikey=48 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=406 end=131097 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-60-127.aif
+<group>lokey=49 hikey=49 pitch_keycenter=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=427 end=131684 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-61-127.aif
+<group>lokey=50 hikey=50 pitch_keycenter=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=459 end=130703 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-62-127.aif
+<group>lokey=51 hikey=51 pitch_keycenter=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=569 end=130522 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-63-127.aif
+<group>lokey=52 hikey=52 pitch_keycenter=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=550 end=132367 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-64-127.aif
+<group>lokey=53 hikey=53 pitch_keycenter=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=546 end=131081 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-65-127.aif
+<group>lokey=54 hikey=54 pitch_keycenter=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=404 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-66-127.aif
+<group>lokey=55 hikey=55 pitch_keycenter=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=772 end=130955 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-67-127.aif
+<group>lokey=56 hikey=56 pitch_keycenter=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=516 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-68-127.aif
+<group>lokey=57 hikey=57 pitch_keycenter=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=373 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-69-127.aif
+<group>lokey=58 hikey=58 pitch_keycenter=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=354 end=129827 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-70-127.aif
+<group>lokey=59 hikey=59 pitch_keycenter=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=589 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-71-127.aif
+<group>lokey=60 hikey=60 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=735 end=130742 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-72-127.aif
+<group>lokey=61 hikey=61 pitch_keycenter=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=622 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-73-127.aif
+<group>lokey=62 hikey=62 pitch_keycenter=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=394 end=130593 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-74-127.aif
+<group>lokey=63 hikey=63 pitch_keycenter=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=370 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-75-127.aif
+<group>lokey=64 hikey=64 pitch_keycenter=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=372 end=129920 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-76-127.aif
+<group>lokey=65 hikey=65 pitch_keycenter=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=445 end=128768 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-77-127.aif
+<group>lokey=66 hikey=66 pitch_keycenter=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=361 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-78-127.aif
+<group>lokey=67 hikey=67 pitch_keycenter=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=663 end=130214 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-79-127.aif
+<group>lokey=68 hikey=68 pitch_keycenter=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=350 end=129280 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-80-127.aif
+<group>lokey=69 hikey=69 pitch_keycenter=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=235 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-81-127.aif
+<group>lokey=70 hikey=70 pitch_keycenter=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=756 end=129944 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-82-127.aif
+<group>lokey=71 hikey=71 pitch_keycenter=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=310 end=128454 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-83-127.aif
+<group>lokey=72 hikey=72 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=759 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-84-127.aif
+<group>lokey=73 hikey=73 pitch_keycenter=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=386 end=128409 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-85-127.aif
+<group>lokey=74 hikey=74 pitch_keycenter=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=532 end=128520 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-86-127.aif
+<group>lokey=75 hikey=75 pitch_keycenter=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=286 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-87-127.aif
+<group>lokey=76 hikey=76 pitch_keycenter=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=667 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-88-127.aif
+<group>lokey=77 hikey=77 pitch_keycenter=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=561 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-89-127.aif
+<group>lokey=78 hikey=78 pitch_keycenter=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=555 end=127872 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-90-127.aif
+<group>lokey=79 hikey=79 pitch_keycenter=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=533 end=128144 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-91-127.aif
+<group>lokey=80 hikey=80 pitch_keycenter=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=268 end=128939 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-92-127.aif
+<group>lokey=81 hikey=81 pitch_keycenter=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=583 end=128384 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-93-127.aif
+<group>lokey=82 hikey=82 pitch_keycenter=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=357 end=127361 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-94-127.aif
+<group>lokey=83 hikey=83 pitch_keycenter=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=584 end=128778 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-95-127.aif
+<group>lokey=84 hikey=125 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=387 end=126976 sample=../Audio/jp4 - Submissive-SAMPLES/jp4 - Submissive-96-127.aif

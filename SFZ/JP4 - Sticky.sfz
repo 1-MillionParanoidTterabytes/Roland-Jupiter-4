@@ -1,0 +1,100 @@
+// this file was generated from JP4 - Sticky.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=17 hikey=48 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=577 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-48-127.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=823 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-49-127.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=717 end=435463 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-50-127.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=567 end=432916 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-51-127.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=695 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-52-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=740 end=433408 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=666 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=474 end=432433 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=735 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=445 end=433458 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=477 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=511 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=434 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=767 end=433928 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=886 end=435969 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=475 end=432901 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=479 end=435968 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=687 end=433944 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=767 end=436012 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=444 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=809 end=436486 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=480 end=433420 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=736 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=886 end=433408 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-71-127.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=701 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-72-127.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=636 end=433920 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-73-127.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=717 end=436485 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-74-127.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=893 end=433408 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-75-127.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=503 end=436997 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-76-127.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=878 end=434441 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-77-127.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=631 end=435456 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-78-127.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=717 end=432906 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-79-127.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=492 end=436489 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-80-127.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=755 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-81-127.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=494 end=434944 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-82-127.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=503 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-83-127.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=632 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-84-127.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=505 end=432899 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-85-127.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=744 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-86-127.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=505 end=431367 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-87-127.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=506 end=434432 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-88-127.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=597 end=433408 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-89-127.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=980 end=433920 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-90-127.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=739 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-91-127.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=742 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-92-127.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=762 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-93-127.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=618 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-94-127.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=714 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-95-127.aif
+<group>lokey=96 hikey=127 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=894 sample=../Audio/JP4 - Sticky-SAMPLES/JP4 - Sticky-96-127.aif

@@ -1,0 +1,100 @@
+// this file was generated from Plastic Wobbler.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1204 end=422259 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-48-127.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=745 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-49-127.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=463 end=431467 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-50-127.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=636 end=421884 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-51-127.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=805 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-52-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=371 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=371 end=425379 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=374 end=422530 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=718 end=422532 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=593 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=646 end=426322 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=428 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=726 end=423404 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=604 end=427242 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=797 end=426871 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=579 end=423680 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=818 end=423296 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=299 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=596 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=455 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=684 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=628 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=711 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=669 end=430337 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-71-127.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=629 end=423718 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-72-127.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=615 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-73-127.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=778 end=427018 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-74-127.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=702 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-75-127.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=302 end=422158 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-76-127.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=604 end=428674 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-77-127.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=445 end=426496 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-78-127.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=422 end=423451 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-79-127.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=678 end=423718 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-80-127.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=737 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-81-127.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=679 end=427520 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-82-127.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=329 end=423052 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-83-127.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=657 end=425250 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-84-127.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=394 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-85-127.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=483 end=427662 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-86-127.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=311 end=422409 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-87-127.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=622 end=428544 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-88-127.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=401 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-89-127.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=570 end=427279 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-90-127.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=453 end=422529 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-91-127.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=503 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-92-127.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=573 end=426900 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-93-127.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=552 end=425987 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-94-127.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=707 end=422926 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-95-127.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=378 sample=../Audio/Plastic Wobbler-SAMPLES/Plastic Wobbler-96-127.aif

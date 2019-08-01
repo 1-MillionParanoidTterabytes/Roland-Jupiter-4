@@ -1,0 +1,120 @@
+// this file was generated from High Rise.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1 sample=../Audio/High Rise-SAMPLES/High Rise-36-127_0001.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=12781 end=484892 sample=../Audio/High Rise-SAMPLES/High Rise-37-127.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=11416 end=553670 sample=../Audio/High Rise-SAMPLES/High Rise-38-127.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=19320 sample=../Audio/High Rise-SAMPLES/High Rise-39-127.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=9039 sample=../Audio/High Rise-SAMPLES/High Rise-40-127.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=13925 end=532502 sample=../Audio/High Rise-SAMPLES/High Rise-41-127.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=12516 sample=../Audio/High Rise-SAMPLES/High Rise-42-127.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=14860 sample=../Audio/High Rise-SAMPLES/High Rise-43-127.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=15636 sample=../Audio/High Rise-SAMPLES/High Rise-44-127.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=22117 sample=../Audio/High Rise-SAMPLES/High Rise-45-127.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=15306 sample=../Audio/High Rise-SAMPLES/High Rise-46-127.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=15756 sample=../Audio/High Rise-SAMPLES/High Rise-47-127.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=11276 sample=../Audio/High Rise-SAMPLES/High Rise-48-127.aif
+<group>lokey=49 hikey=50 pitch_keycenter=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=11348 sample=../Audio/High Rise-SAMPLES/High Rise-50-127.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=10283 sample=../Audio/High Rise-SAMPLES/High Rise-51-127.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=10930 sample=../Audio/High Rise-SAMPLES/High Rise-52-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=12947 end=541411 sample=../Audio/High Rise-SAMPLES/High Rise-53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=13548 sample=../Audio/High Rise-SAMPLES/High Rise-54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=11485 sample=../Audio/High Rise-SAMPLES/High Rise-55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=11869 sample=../Audio/High Rise-SAMPLES/High Rise-56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=15157 sample=../Audio/High Rise-SAMPLES/High Rise-57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=13524 sample=../Audio/High Rise-SAMPLES/High Rise-58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=12187 sample=../Audio/High Rise-SAMPLES/High Rise-59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=14922 sample=../Audio/High Rise-SAMPLES/High Rise-60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=12365 sample=../Audio/High Rise-SAMPLES/High Rise-61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=14809 sample=../Audio/High Rise-SAMPLES/High Rise-62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=11386 sample=../Audio/High Rise-SAMPLES/High Rise-63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=14466 sample=../Audio/High Rise-SAMPLES/High Rise-64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=12664 sample=../Audio/High Rise-SAMPLES/High Rise-65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=11982 sample=../Audio/High Rise-SAMPLES/High Rise-66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=24406 sample=../Audio/High Rise-SAMPLES/High Rise-67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=11501 sample=../Audio/High Rise-SAMPLES/High Rise-68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=12378 sample=../Audio/High Rise-SAMPLES/High Rise-69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=11600 sample=../Audio/High Rise-SAMPLES/High Rise-70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=13019 sample=../Audio/High Rise-SAMPLES/High Rise-71-127.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=13205 sample=../Audio/High Rise-SAMPLES/High Rise-72-127.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=11375 sample=../Audio/High Rise-SAMPLES/High Rise-73-127.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=10013 sample=../Audio/High Rise-SAMPLES/High Rise-74-127.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=8787 sample=../Audio/High Rise-SAMPLES/High Rise-75-127.aif
+<group>lokey=76 hikey=77 pitch_keycenter=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=12868 sample=../Audio/High Rise-SAMPLES/High Rise-77-127.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=11189 sample=../Audio/High Rise-SAMPLES/High Rise-78-127.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=11442 end=425859 sample=../Audio/High Rise-SAMPLES/High Rise-79-127.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=17214 sample=../Audio/High Rise-SAMPLES/High Rise-80-127.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=18121 sample=../Audio/High Rise-SAMPLES/High Rise-81-127.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=3715 sample=../Audio/High Rise-SAMPLES/High Rise-82-127.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=12231 sample=../Audio/High Rise-SAMPLES/High Rise-83-127.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=12845 end=396425 sample=../Audio/High Rise-SAMPLES/High Rise-84-127.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=23355 sample=../Audio/High Rise-SAMPLES/High Rise-85-127.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=18248 sample=../Audio/High Rise-SAMPLES/High Rise-86-127.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=14258 end=324495 sample=../Audio/High Rise-SAMPLES/High Rise-87-127.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=11625 end=335771 sample=../Audio/High Rise-SAMPLES/High Rise-88-127.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=9797 sample=../Audio/High Rise-SAMPLES/High Rise-89-127.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=11227 sample=../Audio/High Rise-SAMPLES/High Rise-90-127.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=117 sample=../Audio/High Rise-SAMPLES/High Rise-91-127.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=8816 sample=../Audio/High Rise-SAMPLES/High Rise-92-127.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=11925 sample=../Audio/High Rise-SAMPLES/High Rise-93-127.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=4122 end=361121 sample=../Audio/High Rise-SAMPLES/High Rise-94-127.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=11379 end=409071 sample=../Audio/High Rise-SAMPLES/High Rise-95-127.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=9934 sample=../Audio/High Rise-SAMPLES/High Rise-96-127.aif

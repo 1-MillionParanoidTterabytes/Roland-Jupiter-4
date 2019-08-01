@@ -1,0 +1,100 @@
+// this file was generated from Sad Wow.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=11 hikey=48 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1874 end=487936 loop_mode=loop_sustain loop_start=271128 loop_end=359229 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-48-127.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1920 loop_mode=loop_sustain loop_start=269572 loop_end=364877 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-49-127.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1586 end=480172 loop_mode=loop_sustain loop_start=276417 loop_end=364292 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-50-127.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1420 end=481152 loop_mode=loop_sustain loop_start=275128 loop_end=362966 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-51-127.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2977 loop_mode=loop_sustain loop_start=245534 loop_end=340841 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-52-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2864 end=479360 loop_mode=loop_sustain loop_start=272660 loop_end=360733 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2824 end=479370 loop_mode=loop_sustain loop_start=279049 loop_end=367059 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2740 loop_mode=loop_sustain loop_start=274056 loop_end=362159 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2452 loop_mode=loop_sustain loop_start=270576 loop_end=358586 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2877 loop_mode=loop_sustain loop_start=273050 loop_end=361199 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2676 end=480269 loop_mode=loop_sustain loop_start=270319 loop_end=365077 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2615 end=481441 loop_mode=loop_sustain loop_start=249715 loop_end=363368 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2072 loop_mode=loop_sustain loop_start=250131 loop_end=363813 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2244 end=479616 loop_mode=loop_sustain loop_start=276592 loop_end=364632 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2752 end=483712 loop_mode=loop_sustain loop_start=278145 loop_end=366093 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2911 end=481408 loop_mode=loop_sustain loop_start=277235 loop_end=365297 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2515 loop_mode=loop_sustain loop_start=265607 loop_end=353618 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2559 loop_mode=loop_sustain loop_start=243489 loop_end=357866 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2919 end=479875 loop_mode=loop_sustain loop_start=251373 loop_end=365055 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2559 loop_mode=loop_sustain loop_start=276584 loop_end=365390 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2638 end=481280 loop_mode=loop_sustain loop_start=251362 loop_end=365028 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2918 loop_mode=loop_sustain loop_start=240733 loop_end=354423 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2524 end=479744 loop_mode=loop_sustain loop_start=261949 loop_end=350552 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2793 loop_mode=loop_sustain loop_start=276176 loop_end=364181 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-71-127.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2670 end=481667 loop_mode=loop_sustain loop_start=278043 loop_end=366047 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-72-127.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2932 end=479366 loop_mode=loop_sustain loop_start=279380 loop_end=367449 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-73-127.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2807 end=480131 loop_mode=loop_sustain loop_start=247541 loop_end=335492 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-74-127.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2417 end=481414 loop_mode=loop_sustain loop_start=259996 loop_end=347796 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-75-127.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2398 end=481408 loop_mode=loop_sustain loop_start=275716 loop_end=363833 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-76-127.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2789 loop_mode=loop_sustain loop_start=277406 loop_end=365238 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-77-127.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2684 loop_mode=loop_sustain loop_start=263730 loop_end=351740 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-78-127.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2802 loop_mode=loop_sustain loop_start=274094 loop_end=362175 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-79-127.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=3071 loop_mode=loop_sustain loop_start=277796 loop_end=365858 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-80-127.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2926 end=484352 loop_mode=loop_sustain loop_start=268065 loop_end=356106 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-81-127.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2801 loop_mode=loop_sustain loop_start=241321 loop_end=354969 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-82-127.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2943 end=482688 loop_mode=loop_sustain loop_start=248981 loop_end=362608 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-83-127.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2678 loop_mode=loop_sustain loop_start=249309 loop_end=362973 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-84-127.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2802 loop_mode=loop_sustain loop_start=267754 loop_end=355778 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-85-127.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2943 end=479872 loop_mode=loop_sustain loop_start=241478 loop_end=355166 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-86-127.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2913 end=488448 loop_mode=loop_sustain loop_start=251692 loop_end=365360 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-87-127.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2553 end=480795 loop_mode=loop_sustain loop_start=267695 loop_end=355764 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-88-127.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2812 loop_mode=loop_sustain loop_start=263886 loop_end=351919 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-89-127.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2654 end=479104 loop_mode=loop_sustain loop_start=276396 loop_end=364405 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-90-127.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2676 loop_mode=loop_sustain loop_start=272642 loop_end=360969 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-91-127.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2931 loop_mode=loop_sustain loop_start=262270 loop_end=350726 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-92-127.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2680 end=483072 loop_mode=loop_sustain loop_start=255599 loop_end=362070 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-93-127.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=3180 end=478727 loop_mode=loop_sustain loop_start=264270 loop_end=352346 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-94-127.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2683 end=490624 loop_mode=loop_sustain loop_start=263202 loop_end=351785 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-95-127.aif
+<group>lokey=96 hikey=127 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=3039 end=481028 loop_mode=loop_sustain loop_start=272199 loop_end=360264 sample=../Audio/Sad Wow-SAMPLES/Sad Wow-96-127.aif

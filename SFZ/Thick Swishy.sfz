@@ -1,0 +1,100 @@
+// this file was generated from Thick Swishy.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=1 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=451 end=265368 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-36-127.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=606 end=266416 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-37-127.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=333 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-38-127.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=388 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-39-127.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=402 end=265357 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-40-127.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=529 end=265362 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-41-127.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=309 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-42-127.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=489 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-43-127.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=642 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-44-127.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=542 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-45-127.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=324 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-46-127.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=496 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-47-127.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=570 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-48-127.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=750 end=265969 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-49-127.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=563 end=265623 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-50-127.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=569 end=266603 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-51-127.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=529 end=265800 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-52-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=302 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=747 end=266089 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=403 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=538 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=561 end=265740 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=288 end=265851 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=474 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=298 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=423 end=265935 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=457 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=579 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=431 end=266030 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=285 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=484 end=265899 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=379 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=265 end=265866 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=428 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=438 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=667 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-71-127.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=756 end=266176 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-72-127.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=445 end=265945 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-73-127.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=392 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-74-127.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=578 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-75-127.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=612 end=265757 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-76-127.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=417 end=266000 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-77-127.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=636 end=266131 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-78-127.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=652 end=266175 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-79-127.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=428 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-80-127.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=238 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-81-127.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=634 end=265894 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-82-127.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=254 end=265730 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-83-127.aif
+<group>lokey=84 hikey=115 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=449 sample=../Audio/Thick Swishy-SAMPLES/Thick Swishy-84-127.aif

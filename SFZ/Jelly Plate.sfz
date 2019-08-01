@@ -1,0 +1,100 @@
+// this file was generated from Jelly Plate.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=349960 loop_end=403148 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-36-127-XGGH.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=330525 loop_end=413427 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-37-127-12IH.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=370955 loop_end=410898 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-38-127-QZY9.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=380930 loop_end=407542 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-39-127-GI9Z.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=313208 loop_end=339948 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-40-127-YDBP.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328737 loop_end=365687 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-41-127-K60V.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=354663 loop_end=391592 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-42-127-MLCA.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=343789 loop_end=380647 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-43-127-XOIK.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=350449 loop_end=385266 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-44-127-2KDK.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=336880 loop_end=374658 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-45-127-H5NR.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=310300 loop_end=344137 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-46-127-B1CD.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=322974 loop_end=346524 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-47-127-BZVZ.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=333832 loop_end=357434 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-48-127-382F.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=381658 loop_end=415475 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-49-127-AOL2.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=376530 loop_end=410268 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-50-127-C0EU.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=356488 loop_end=379997 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-51-127-DW1R.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=391825 loop_end=415396 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-52-127-56DR.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=370732 loop_end=414821 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-53-127-7RKN.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=375417 loop_end=398897 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-54-127-AO6L.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=360714 loop_end=387486 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-55-127-6UKA.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=371934 loop_end=398728 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-56-127-CZ6C.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=369514 loop_end=396260 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-57-127-J7ZY.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=383535 loop_end=410098 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-58-127-LMN8.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=388236 loop_end=414850 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-59-127-WKQ7.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=357325 loop_end=407462 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-60-127-COFC.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=365460 loop_end=415580 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-61-127-TDSJ.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=352231 loop_end=415639 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-62-127-2SK0.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=387941 loop_end=411610 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-63-127-FKV8.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=356015 loop_end=389787 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-64-127-QHHO.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=330281 loop_end=363980 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-65-127-5L2N.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=375679 loop_end=402274 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-66-127-4AKF.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=385063 loop_end=408573 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-67-127-I0L3.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=337260 loop_end=360872 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-68-127-KYOX.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=310662 loop_end=351571 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-69-127-R0CJ.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=332343 loop_end=363060 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-70-127-3JT8.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=374715 loop_end=415593 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-71-127-Q6O7.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=368233 loop_end=412308 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-72-127-FMGA.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=388505 loop_end=413071 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-73-127-DMJP.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=350658 loop_end=375191 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-74-127-1BJN.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=345230 loop_end=409615 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-75-127-67LY.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=367457 loop_end=411484 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-76-127-W7YK.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=366079 loop_end=399868 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-77-127-8TCV.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=348676 loop_end=402928 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-78-127-SZ44.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=357421 loop_end=411647 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-79-127-WAEJ.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=360919 loop_end=415179 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-80-127-V7LK.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=361769 loop_end=405747 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-81-127-H35W.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=375070 loop_end=402628 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-82-127-4M2W.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=361261 loop_end=415459 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-83-127-JQ5K.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=383369 loop_end=405111 sample=../Audio/Jelly Plate-SAMPLES/Jelly Plate-84-127-R7UE.aif

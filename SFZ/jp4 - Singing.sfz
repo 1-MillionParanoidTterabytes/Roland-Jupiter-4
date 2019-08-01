@@ -1,0 +1,100 @@
+// this file was generated from jp4 - Singing.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=13 hikey=48 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=217243 loop_end=292286 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-48-127-7L2T.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=186277 loop_end=259883 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-49-127-ZRHO.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=194445 loop_end=267999 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-50-127-MX6J.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=289584 loop_end=363125 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-51-127-PB3B.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=164959 loop_end=238785 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-52-127-S652.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=229116 loop_end=302012 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-53-127-D3FS.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=230457 loop_end=304058 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-54-127-XBPD.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=141806 loop_end=215138 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-55-127-QA5H.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=290714 loop_end=364457 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-56-127-5B41.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=289651 loop_end=363109 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-57-127-4FKC.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=288555 loop_end=362277 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-58-127-RERB.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=288168 loop_end=361569 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-59-127-887Y.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=289734 loop_end=362748 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-60-127-ZXN6.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=287663 loop_end=361241 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-61-127-X2D2.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=286942 loop_end=360479 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-62-127-S5NJ.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=273862 loop_end=347335 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-63-127-CT9O.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=287838 loop_end=361507 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-64-127-1YFI.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=286139 loop_end=359825 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-65-127-WQZU.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=290743 loop_end=364436 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-66-127-PANH.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=278425 loop_end=352161 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-67-127-H356.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=290363 loop_end=364114 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-68-127-AZN4.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=287977 loop_end=361696 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-69-127-CSW5.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=277598 loop_end=351694 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-70-127-QYKV.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=260131 loop_end=333932 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-71-127-KFPQ.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=269069 loop_end=342938 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-72-127-D40H.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=172670 loop_end=245873 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-73-127-ZGE8.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=86930 loop_end=160759 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-74-127-38QW.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=284876 loop_end=358965 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-75-127-415W.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=151862 loop_end=225732 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-76-127-STQ9.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=224920 loop_end=298816 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-77-127-IEUL.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=203032 loop_end=276730 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-78-127-KZL1.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=259742 loop_end=333710 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-79-127-DUJZ.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=117944 loop_end=191698 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-80-127-X5OP.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=288560 loop_end=362468 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-81-127-M1U2.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=12267 loop_end=363402 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-82-127-B0EO.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=176787 loop_end=250697 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-83-127-AGNI.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=22590 loop_end=362380 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-84-127-9IL5.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=28727 loop_end=361608 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-85-127-NQLU.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=53512 loop_end=361812 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-86-127-3XDF.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=64644 loop_end=360608 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-87-127-2EDP.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=80049 loop_end=363706 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-88-127-M068.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=89408 loop_end=360537 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-89-127-8JC0.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=91140 loop_end=363335 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-90-127-TQ20.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=99387 loop_end=358443 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-91-127-WB8R.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=95349 loop_end=360946 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-92-127-SIQ1.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=95346 loop_end=342509 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-93-127-GATK.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=121918 loop_end=362725 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-94-127-5DZM.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=128801 loop_end=363286 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-95-127-NE5B.aif
+<group>lokey=96 hikey=127 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=114732 loop_end=362333 sample=../Audio/jp4 - Singing multi-SAMPLES/JP4 - Singing-96-127-URNS.aif

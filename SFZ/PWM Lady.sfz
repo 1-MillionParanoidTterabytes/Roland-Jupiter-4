@@ -1,0 +1,100 @@
+// this file was generated from PWM Lady.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1924 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-36-127.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2108 end=506409 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-37-127.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1737 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-38-127.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2030 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-39-127.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1694 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-40-127.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2091 end=505760 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-41-127.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1730 end=510436 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-42-127.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1799 end=511055 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-43-127.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2104 end=504931 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-44-127.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2096 end=505481 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-45-127.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2213 end=510879 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-46-127.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1786 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-47-127.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2202 end=504632 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-48-127.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1537 end=506048 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-49-127.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1747 end=510370 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-50-127.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2169 end=510559 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-51-127.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2063 end=503569 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-52-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1715 end=507543 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1655 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1974 end=510858 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2429 end=504180 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1925 end=507237 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2108 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1819 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2171 end=503870 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1976 end=504468 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1665 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1987 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1836 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1724 end=503606 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1795 end=508215 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1890 end=508909 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2184 end=504109 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1840 end=504722 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1748 end=509760 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1683 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-71-127.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2338 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-72-127.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1849 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-73-127.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1679 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-74-127.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1797 end=508062 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-75-127.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1935 end=503815 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-76-127.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2174 end=504854 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-77-127.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1807 end=508436 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-78-127.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2290 end=507750 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-79-127.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2083 end=501938 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-80-127.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1799 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-81-127.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1982 end=508872 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-82-127.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1817 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-83-127.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1814 sample=../Audio/PWM Lady-SAMPLES/PWM Lady-84-127.aif

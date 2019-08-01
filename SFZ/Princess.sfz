@@ -1,0 +1,96 @@
+// this file was generated from Princess.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=14850 end=325398 sample=../Audio/Princess-SAMPLES/Princess-36-127.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=14551 end=340329 sample=../Audio/Princess-SAMPLES/Princess-37-127.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=15983 sample=../Audio/Princess-SAMPLES/Princess-38-127.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=11295 sample=../Audio/Princess-SAMPLES/Princess-39-127.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=11608 end=290761 sample=../Audio/Princess-SAMPLES/Princess-40-127.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=11465 sample=../Audio/Princess-SAMPLES/Princess-41-127.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=7378 end=312270 sample=../Audio/Princess-SAMPLES/Princess-42-127.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=11079 sample=../Audio/Princess-SAMPLES/Princess-43-127.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=12571 sample=../Audio/Princess-SAMPLES/Princess-44-127.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=11816 sample=../Audio/Princess-SAMPLES/Princess-45-127.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=11828 sample=../Audio/Princess-SAMPLES/Princess-46-127.aif
+<group>lokey=47 hikey=48 pitch_keycenter=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=14323 sample=../Audio/Princess-SAMPLES/Princess-47-127.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=11253 sample=../Audio/Princess-SAMPLES/Princess-49-127.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=10856 end=330231 sample=../Audio/Princess-SAMPLES/Princess-50-127.aif
+<group>lokey=51 hikey=52 pitch_keycenter=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=6310 sample=../Audio/Princess-SAMPLES/Princess-51-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=16805 sample=../Audio/Princess-SAMPLES/Princess-53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=7958 sample=../Audio/Princess-SAMPLES/Princess-54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=11951 sample=../Audio/Princess-SAMPLES/Princess-55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=11377 end=310315 sample=../Audio/Princess-SAMPLES/Princess-56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=5413 sample=../Audio/Princess-SAMPLES/Princess-57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=7811 sample=../Audio/Princess-SAMPLES/Princess-58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=13615 sample=../Audio/Princess-SAMPLES/Princess-59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=10764 end=310947 sample=../Audio/Princess-SAMPLES/Princess-60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=12326 sample=../Audio/Princess-SAMPLES/Princess-61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=14112 sample=../Audio/Princess-SAMPLES/Princess-62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=8226 sample=../Audio/Princess-SAMPLES/Princess-63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=10654 sample=../Audio/Princess-SAMPLES/Princess-64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=11167 sample=../Audio/Princess-SAMPLES/Princess-65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=11248 sample=../Audio/Princess-SAMPLES/Princess-66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=16784 sample=../Audio/Princess-SAMPLES/Princess-67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=11838 sample=../Audio/Princess-SAMPLES/Princess-68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=6371 sample=../Audio/Princess-SAMPLES/Princess-69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=8201 sample=../Audio/Princess-SAMPLES/Princess-70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=10740 sample=../Audio/Princess-SAMPLES/Princess-71-127.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=6797 sample=../Audio/Princess-SAMPLES/Princess-72-127.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=12946 sample=../Audio/Princess-SAMPLES/Princess-73-127.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=18947 sample=../Audio/Princess-SAMPLES/Princess-74-127.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=9532 sample=../Audio/Princess-SAMPLES/Princess-75-127.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=11844 sample=../Audio/Princess-SAMPLES/Princess-76-127.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=9952 end=224368 sample=../Audio/Princess-SAMPLES/Princess-77-127.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=8630 sample=../Audio/Princess-SAMPLES/Princess-78-127.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=10379 sample=../Audio/Princess-SAMPLES/Princess-79-127.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=3918 sample=../Audio/Princess-SAMPLES/Princess-80-127.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=16745 sample=../Audio/Princess-SAMPLES/Princess-81-127.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=4697 sample=../Audio/Princess-SAMPLES/Princess-82-127.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=12950 end=254945 sample=../Audio/Princess-SAMPLES/Princess-83-127.aif
+<group>lokey=84 hikey=106 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=4200 sample=../Audio/Princess-SAMPLES/Princess-84-127.aif

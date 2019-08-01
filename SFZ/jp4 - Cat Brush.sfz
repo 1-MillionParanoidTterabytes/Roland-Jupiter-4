@@ -1,0 +1,100 @@
+// this file was generated from jp4 - Cat Brush.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=14 hikey=48 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=291232 loop_end=369173 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-48-127-T0WG.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=282954 loop_end=380179 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-49-127-V8SI.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=284555 loop_end=381762 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-50-127-4OSY.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=298310 loop_end=356654 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-51-127-QYBL.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=218849 loop_end=277013 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-52-127-J54B.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=260374 loop_end=396677 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-53-127-8TGH.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=325357 loop_end=383957 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-54-127-0B89.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=239967 loop_end=298429 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-55-127-UQ1X.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=260003 loop_end=318485 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-56-127-V6BI.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=298732 loop_end=396154 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-57-127-VU2K.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=261102 loop_end=319714 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-58-127-B988.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=241548 loop_end=300079 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-59-127-TWQQ.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=276681 loop_end=334903 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-60-127-OCGQ.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=339696 loop_end=398282 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-61-127-VGWW.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=256589 loop_end=392910 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-62-127-ONS9.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=261152 loop_end=319807 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-63-127-35KL.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=278142 loop_end=336442 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-64-127-2NB5.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=319218 loop_end=397157 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-65-127-LU1U.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=317272 loop_end=375715 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-66-127-E24X.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=280245 loop_end=338553 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-67-127-ZQLU.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=296494 loop_end=374220 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-68-127-EI86.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=319089 loop_end=396859 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-69-127-XKJM.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=317062 loop_end=375390 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-70-127-YV8P.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=297216 loop_end=375481 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-71-127-5ABO.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=260846 loop_end=319337 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-72-127-NGT8.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=293065 loop_end=390390 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-73-127-4GK6.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=281882 loop_end=340342 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-74-127-CF0G.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=278714 loop_end=337139 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-75-127-YHFJ.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=292556 loop_end=370332 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-76-127-QQC8.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=304337 loop_end=362863 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-77-127-U995.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=257525 loop_end=393538 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-78-127-CV38.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=275078 loop_end=333607 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-79-127-DT31.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=279632 loop_end=338074 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-80-127-EF35.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=335314 loop_end=393747 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-81-127-J5EU.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=335409 loop_end=393828 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-82-127-9BEV.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=316999 loop_end=375507 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-83-127-PZOR.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=298238 loop_end=356624 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-84-127-9UAB.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=316599 loop_end=374886 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-85-127-X6BK.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=337256 loop_end=395571 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-86-127-P2KN.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=273838 loop_end=332318 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-87-127-SF3W.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=277811 loop_end=336210 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-88-127-CSSF.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=317385 loop_end=375751 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-89-127-1PFB.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=316151 loop_end=374641 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-90-127-4YZ5.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=336445 loop_end=394936 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-91-127-06L2.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=336540 loop_end=394978 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-92-127-RDDJ.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=299749 loop_end=397130 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-93-127-KMFU.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=319000 loop_end=377573 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-94-127-B0N8.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=335372 loop_end=393785 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-95-127-NEJS.aif
+<group>lokey=96 hikey=127 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=276737 loop_end=335233 sample=../Audio/jp4 - Cat Brush-SAMPLES/Cat Brush-96-127-Y4J6.aif

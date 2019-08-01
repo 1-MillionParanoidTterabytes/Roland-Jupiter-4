@@ -1,0 +1,100 @@
+// this file was generated from jp4 - Square nerds.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=12 hikey=36 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=232 end=90941 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-48-127.aif
+<group>lokey=37 hikey=37 pitch_keycenter=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=394 end=89962 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-49-127.aif
+<group>lokey=38 hikey=38 pitch_keycenter=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=339 end=90504 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-50-127.aif
+<group>lokey=39 hikey=39 pitch_keycenter=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=578 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-51-127.aif
+<group>lokey=40 hikey=40 pitch_keycenter=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=382 end=91162 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-52-127.aif
+<group>lokey=41 hikey=41 pitch_keycenter=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=744 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-53-127.aif
+<group>lokey=42 hikey=42 pitch_keycenter=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=511 end=90892 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-54-127.aif
+<group>lokey=43 hikey=43 pitch_keycenter=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=539 end=90424 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-55-127.aif
+<group>lokey=44 hikey=44 pitch_keycenter=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=570 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-56-127.aif
+<group>lokey=45 hikey=45 pitch_keycenter=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=265 end=90582 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-57-127.aif
+<group>lokey=46 hikey=46 pitch_keycenter=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=515 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-58-127.aif
+<group>lokey=47 hikey=47 pitch_keycenter=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=572 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-59-127.aif
+<group>lokey=48 hikey=48 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=309 end=90493 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-60-127.aif
+<group>lokey=49 hikey=49 pitch_keycenter=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=513 end=89814 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-61-127.aif
+<group>lokey=50 hikey=50 pitch_keycenter=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=527 end=90014 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-62-127.aif
+<group>lokey=51 hikey=51 pitch_keycenter=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=423 end=89701 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-63-127.aif
+<group>lokey=52 hikey=52 pitch_keycenter=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=784 end=90828 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-64-127.aif
+<group>lokey=53 hikey=53 pitch_keycenter=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=563 end=90680 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-65-127.aif
+<group>lokey=54 hikey=54 pitch_keycenter=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=740 end=90804 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-66-127.aif
+<group>lokey=55 hikey=55 pitch_keycenter=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=445 end=89753 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-67-127.aif
+<group>lokey=56 hikey=56 pitch_keycenter=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=425 end=90552 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-68-127.aif
+<group>lokey=57 hikey=57 pitch_keycenter=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=259 end=90408 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-69-127.aif
+<group>lokey=58 hikey=58 pitch_keycenter=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=421 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-70-127.aif
+<group>lokey=59 hikey=59 pitch_keycenter=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=572 end=90394 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-71-127.aif
+<group>lokey=60 hikey=60 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=538 end=90681 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-72-127.aif
+<group>lokey=61 hikey=61 pitch_keycenter=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=768 end=90863 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-73-127.aif
+<group>lokey=62 hikey=62 pitch_keycenter=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=321 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-74-127.aif
+<group>lokey=63 hikey=63 pitch_keycenter=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=717 end=90831 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-75-127.aif
+<group>lokey=64 hikey=64 pitch_keycenter=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=715 end=90762 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-76-127.aif
+<group>lokey=65 hikey=65 pitch_keycenter=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=557 end=90351 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-77-127.aif
+<group>lokey=66 hikey=66 pitch_keycenter=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=279 end=90579 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-78-127.aif
+<group>lokey=67 hikey=67 pitch_keycenter=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=343 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-79-127.aif
+<group>lokey=68 hikey=68 pitch_keycenter=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=602 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-80-127.aif
+<group>lokey=69 hikey=69 pitch_keycenter=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=530 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-81-127.aif
+<group>lokey=70 hikey=70 pitch_keycenter=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=283 end=90596 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-82-127.aif
+<group>lokey=71 hikey=71 pitch_keycenter=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=558 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-83-127.aif
+<group>lokey=72 hikey=72 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=354 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-84-127.aif
+<group>lokey=73 hikey=73 pitch_keycenter=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=557 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-85-127.aif
+<group>lokey=74 hikey=74 pitch_keycenter=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=575 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-86-127.aif
+<group>lokey=75 hikey=75 pitch_keycenter=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=729 end=90622 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-87-127.aif
+<group>lokey=76 hikey=76 pitch_keycenter=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=369 end=90479 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-88-127.aif
+<group>lokey=77 hikey=77 pitch_keycenter=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=322 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-89-127.aif
+<group>lokey=78 hikey=78 pitch_keycenter=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=439 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-90-127.aif
+<group>lokey=79 hikey=79 pitch_keycenter=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=313 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-91-127.aif
+<group>lokey=80 hikey=80 pitch_keycenter=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=324 end=90239 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-92-127.aif
+<group>lokey=81 hikey=81 pitch_keycenter=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=366 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-93-127.aif
+<group>lokey=82 hikey=82 pitch_keycenter=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=727 end=91520 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-94-127.aif
+<group>lokey=83 hikey=83 pitch_keycenter=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=492 end=90624 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-95-127.aif
+<group>lokey=84 hikey=126 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=398 end=90494 sample=../Audio/jp4 - Square nerds-SAMPLES/jp4 - Square nerds-96-127.aif

@@ -1,0 +1,100 @@
+// this file was generated from Dive Bummer.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=325686 loop_end=354430 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-36-127-YPOR.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=335122 loop_end=411911 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-37-127-SSG8.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=351643 loop_end=379354 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-38-127-5RCW.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=314769 loop_end=352732 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-39-127-ATWW.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=386306 loop_end=412991 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-40-127-SYH0.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=317555 loop_end=353369 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-41-127-J3DM.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=318793 loop_end=384799 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-42-127-42PN.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=314839 loop_end=373579 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-43-127-42QH.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=372933 loop_end=407736 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-44-127-B0BW.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=382113 loop_end=407783 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-45-127-CJER.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=330005 loop_end=394548 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-46-127-HX0Q.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=324838 loop_end=379117 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-47-127-2BMO.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=313123 loop_end=410346 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-48-127-GFXB.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=319661 loop_end=363714 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-49-127-IG1J.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=330988 loop_end=354461 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-50-127-JTSU.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=312618 loop_end=408869 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-51-127-TWQ2.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=386874 loop_end=415521 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-52-127-7359.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329422 loop_end=410271 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-53-127-G99F.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=351918 loop_end=396064 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-54-127-6XJB.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=372791 loop_end=405499 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-55-127-1KJR.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=375459 loop_end=413352 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-56-127-2PXI.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=345136 loop_end=415775 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-57-127-VHEX.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329174 loop_end=352735 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-58-127-OELL.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=365577 loop_end=408658 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-59-127-HHF8.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=315585 loop_end=343178 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-60-127-ZG3Y.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=349682 loop_end=387611 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-61-127-3I14.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=392377 loop_end=415933 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-62-127-SL8J.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=318614 loop_end=342194 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-63-127-C94I.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=333255 loop_end=375216 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-64-127-N34Y.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=327126 loop_end=359895 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-65-127-XSS7.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=362921 loop_end=390538 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-66-127-3D5T.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=355196 loop_end=379938 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-67-127-0SRI.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329155 loop_end=371145 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-68-127-N9AC.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=330210 loop_end=362991 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-69-127-AKXW.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=326950 loop_end=410905 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-70-127-GR9D.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=375267 loop_end=402854 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-71-127-ZZ91.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=325631 loop_end=399236 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-72-127-2GFO.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=371381 loop_end=409336 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-73-127-G02J.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=333064 loop_end=406686 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-74-127-8RQW.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=352726 loop_end=413123 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-75-127-N8N6.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=357077 loop_end=381814 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-76-127-F1JS.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=388216 loop_end=414736 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-77-127-XA2X.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=363839 loop_end=389170 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-78-127-IS53.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=344525 loop_end=377304 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-79-127-X7MY.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=338602 loop_end=405128 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-80-127-DJSD.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=316645 loop_end=347734 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-81-127-L0PH.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=321015 loop_end=369845 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-82-127-1A64.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=323124 loop_end=377126 sample=../Audio/Dive Bummer-SAMPLES/Dive Bummer-83-127-6Y45.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1

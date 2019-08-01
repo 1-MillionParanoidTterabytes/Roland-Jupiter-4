@@ -1,0 +1,100 @@
+// this file was generated from jp4 - Shimmer.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=14 hikey=48 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=288484 loop_end=393804 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-48-127-1PSI.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=273735 loop_end=397605 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-49-127-0F43.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=248032 loop_end=390376 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-50-127-8KM8.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=247287 loop_end=395765 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-51-127-AOBL.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=263565 loop_end=393548 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-52-127-54CY.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=266221 loop_end=396248 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-53-127-134S.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=265325 loop_end=395447 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-54-127-W5Y2.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=343651 loop_end=387152 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-55-127-2IFR.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=260477 loop_end=396656 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-56-127-DKCI.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=260750 loop_end=390716 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-57-127-IOO0.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=261717 loop_end=391779 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-58-127-TL10.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=267340 loop_end=397331 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-59-127-4PJM.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=352880 loop_end=396196 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-60-127-Z6H8.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=271661 loop_end=395451 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-61-127-GNTO.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=272778 loop_end=396685 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-62-127-2XYL.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=273285 loop_end=397173 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-63-127-R7OK.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=353068 loop_end=396282 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-64-127-89UU.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=273814 loop_end=397595 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-65-127-I4CW.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=340020 loop_end=383290 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-66-127-HFIS.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=271455 loop_end=395313 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-67-127-YB73.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=345872 loop_end=389289 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-68-127-2OLJ.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=274713 loop_end=398575 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-69-127-B1WE.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=269923 loop_end=393732 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-70-127-HWCO.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=280739 loop_end=398376 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-71-127-PAHJ.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=276663 loop_end=394334 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-72-127-6R7J.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=349497 loop_end=392797 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-73-127-G4KM.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=270896 loop_end=394768 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-74-127-MJOV.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=278556 loop_end=396190 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-75-127-P3RD.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=278656 loop_end=396354 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-76-127-2E6F.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=277721 loop_end=395474 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-77-127-16ME.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=273266 loop_end=397029 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-78-127-QWD3.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=352546 loop_end=395871 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-79-127-KT7R.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=355277 loop_end=398593 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-80-127-CDCJ.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=291574 loop_end=334965 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-81-127-ZG0U.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=305874 loop_end=349181 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-82-127-X6MZ.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=289811 loop_end=333049 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-83-127-UBTC.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=335584 loop_end=378959 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-84-127-56Z1.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=299741 loop_end=343004 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-85-127-H99L.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=267023 loop_end=390793 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-86-127-PS3E.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=354192 loop_end=397595 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-87-127-J3ZE.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=355086 loop_end=398375 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-88-127-IP9M.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=285605 loop_end=328895 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-89-127-0MPZ.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=281340 loop_end=324765 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-90-127-NPK1.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=349784 loop_end=393180 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-91-127-8LA6.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=338572 loop_end=381977 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-92-127-MD3N.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=284001 loop_end=395466 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-93-127-Q6K8.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=319185 loop_end=362550 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-94-127-2318.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=287392 loop_end=330725 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-95-127-4G8G.aif
+<group>lokey=96 hikey=127 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=296727 loop_end=339972 sample=../Audio/jp4 - Shimmer-SAMPLES/jp4 - Shimmer-96-127-32K5.aif

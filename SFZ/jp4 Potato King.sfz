@@ -1,0 +1,100 @@
+// this file was generated from jp4 Potato King.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=12927 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-48-127.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=12403 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-49-127.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=15999 end=453820 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-50-127.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=10111 end=440705 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-51-127.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=10367 end=424126 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-52-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=17550 end=445718 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=15614 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=14676 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=12127 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=14383 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=13276 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=11647 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=12927 end=315627 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=21247 end=439445 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=16615 end=454157 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=13082 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=15103 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=20351 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=10367 end=439371 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=14649 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=10757 end=423581 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=11775 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=16595 end=439296 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=11065 end=456579 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-71-127.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=9855 end=443044 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-72-127.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=10495 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-73-127.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7039 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-74-127.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=14027 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-75-127.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=13439 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-76-127.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=11903 end=444179 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-77-127.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=11778 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-78-127.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7147 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-79-127.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=14868 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-80-127.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=13695 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-81-127.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=11762 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-82-127.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=12927 end=410882 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-83-127.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7725 end=429705 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-84-127.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=16127 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-85-127.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7039 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-86-127.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=9215 end=437769 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-87-127.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=15757 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-88-127.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=6524 end=413191 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-89-127.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=8657 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-90-127.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=12654 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-91-127.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=17663 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-92-127.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=9727 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-93-127.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=15569 end=378762 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-94-127.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=5757 end=448768 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-95-127.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=17535 sample=../Audio/jp4 Potato King-SAMPLES/Potato King-96-127.aif
